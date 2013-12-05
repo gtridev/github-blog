@@ -1,11 +1,23 @@
 ---
 layout: post
-title: "my first"
+title: "Getting your hands dirty"
 date: 2013-12-03 16:54:27 +0545
 comments: true
 categories: ["talks"]
 ---
 
-## My frst
+The focus of this blog is the introduction to Linux and Open Source Technologies.
+This is my small endeavor of giving opensource communities some:
+How to's?
+Tips and tricks
+Troubleshooting
 
-dhbcsdc
+In prior to Linux and open source technologies, I will also try to mention my understandings in the following topics.
+Databases (Oracle, MySQL, MongoDB etc.)
+Hardware
+Security (Firewall, Network, Online Security, etc.)
+Storage
+Cool gadgets and websites
+Productivity (Too many technologies to explore, not much time available)
+Website Design
+Software Development
